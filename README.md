@@ -18,10 +18,9 @@ The three classes are InfoTheory, CompVis and Math. These can occur in any combi
 ## Analysis code
 
 Key elements of the analysis code are as follows:
-- *Gender_Classifiction_Bert.ipynb* - a Python script used to build the gender classifier with BERT.
-- *data.zip* - a zip file contains 3,600 twitter texts for those authors, which acts as the training and testing data.
-- *train_labels.csv* – a csv file contains training ids and gender. It contains twitter posts from 3,100 authors and acts as the training data.
-- *test_labels.csv* - a csv file contains test ids and gender. It contains the twitter posts from 500 authors.
+- *Text_Classification_Rnn/SVM.ipynb* - a Python script used to build the text classifier.
+- *axcs_train.csv.zip* – a csv file contains the content has been gathered from the popular academic website arXiv.org for articles tagged as computer science content (though some of these are in mathematics or physics categories) from 1990-2014.
+- *axcs_test.csv* - a csv file contains the content has been gathered from the popular academic website arXiv.org for articles tagged as computer science content (though some of these are in mathematics or physics categories) from 2015 plus a bit of 2016.
 
 
 ## Authors
